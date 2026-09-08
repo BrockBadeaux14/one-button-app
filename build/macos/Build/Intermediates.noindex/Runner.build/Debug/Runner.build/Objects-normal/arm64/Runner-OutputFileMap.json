@@ -1,0 +1,49 @@
+{
+  "" : {
+    "diagnostics" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-primary.dia",
+    "emit-module-dependencies" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-primary-emit-module.dia",
+    "pch" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-primary.swiftdeps"
+  },
+  "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/brockbadeaux/Documents/OneButtonApp/macos/Flutter/GeneratedPluginRegistrant.swift" : {
+    "const-values" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.swiftconstvalues",
+    "dependencies" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.d",
+    "diagnostics" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.o",
+    "llvm-bc" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.bc",
+    "object" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.o",
+    "swift-dependencies" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant.swiftdeps",
+    "swiftmodule" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/GeneratedPluginRegistrant~partial.swiftmodule"
+  },
+  "/Users/brockbadeaux/Documents/OneButtonApp/macos/Runner/AppDelegate.swift" : {
+    "const-values" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/brockbadeaux/Documents/OneButtonApp/macos/Runner/MainFlutterWindow.swift" : {
+    "const-values" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.swiftconstvalues",
+    "dependencies" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.d",
+    "diagnostics" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.o",
+    "llvm-bc" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.bc",
+    "object" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.o",
+    "swift-dependencies" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow.swiftdeps",
+    "swiftmodule" : "/Users/brockbadeaux/Documents/OneButtonApp/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/MainFlutterWindow~partial.swiftmodule"
+  }
+}
